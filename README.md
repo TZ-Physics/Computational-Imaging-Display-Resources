@@ -12,9 +12,14 @@ Optics Express, 2022.
 ### DiffOptics
 
 **Differentiable compound optics and processing pipeline optimization for end-to-end camera design.**<br>
-*Differentiable compound optics and processing pipeline optimization for end-to-end camera design, et al.*<br>
+*E Tseng, A Mosleh, F Mannan, K St-Arnaud, A Sharma, Y Peng, A Braun, D Nowrouzezahrai, et al.*<br>
 ACM Transactions on Graphics (TOG), 2021.
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3446791)]
+
+**Pixelrnn: in-pixel recurrent neural networks for end-to-end-optimized perception with neural sensors.**<br>
+*HM So, L Bose, P Dudek, G Wetzstein.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf]
 
 ### TrustedRobustImaging
 
