@@ -54,3 +54,8 @@ ACM Transactions on Graphics (TOG), 2020.
 ACM Transactions on Graphics, 2022.
 [[Paper](https://par.nsf.gov/servlets/purl/10465404)]
 [[Github](https://github.com/HoloCompress/DPRC)]
+
+**Holographic glasses for virtual reality.**<br>
+*J Kim, M Gopakumar, S Choi, Y Peng, W Lopes, G Wetzstein.*<br>
+ACM SIGGRAPH 2022 Conference Proceedings, 2022.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739)]
