@@ -4,6 +4,11 @@
 
 ### Lens Design
 
+**Deep learning-enabled framework for automatic lens design starting point generation.**<br>
+*G Côté, JF Lalonde, S Thibault.*<br>
+Optics express, 2021.
+[[Paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-29-3-3841&html=true)]
+
 **Comparison of methods for end-to-end co-optimization of optical systems and image processing with commercial lens design software.**<br>
 *A Fontbonne, H Sauer, F Goudail.*<br>
 Optics Express, 2022.
@@ -23,6 +28,11 @@ CVPR, 2024.
 
 ### TrustedRobustImaging
 
+**Fog simulation on real LiDAR point clouds for 3D object detection in adverse weather.**<br>
+*M Hahner, C Sakaridis, D Dai, et al.*<br>
+ICCV, 2021.
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf)]
+
 **Lidar snowfall simulation for robust 3d object detection.**<br>
 *M Hahner, C Sakaridis, M Bijelic, et al.*<br>
 CVPR, 2022.
@@ -37,7 +47,17 @@ Nature communications, 2021.
 [[Paper](https://www.nature.com/articles/s41467-021-26443-0)]
 [[Code](https://doi.org/10.5281/zenodo.5637678)]
 
+**End-to-end optimization of metasurfaces for imaging with compressed sensing.**<br>
+*G Arya, WF Li, C Roques-Carmes, M Soljacic, SG Johnson, Z Lin.*<br>
+ACS Photonics, 2024.
+[[Paper](https://arxiv.org/pdf/2201.12348)]
+
 ### Dynamic3DImaging
+
+**Centimeter-wave free-space neural time-of-flight imaging.**<br>
+*SH Baek, N Walsh, I Chugunov, Z Shi, F Heide.*<br>
+ACM Transactions on Graphics, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3522671)]
 
 **Cross-spectral Gated-RGB Stereo Depth Estimation.**<br>
 *S Brucker, S Walz, M Bijelic, et al.*<br>
