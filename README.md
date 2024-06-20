@@ -1,4 +1,4 @@
-# Computational Imaging and Display Resources
+# Computational Imaging Resources
 
 ## Computational Imaging
 
@@ -171,5 +171,3 @@ CVPR, 2021.
 **SP-GAN: Sphere-guided 3D shape generation and manipulation.**<br>
 *R Li, X Li, KH Hui, CW Fu.*<br>
 ACM Transactions on Graphics (TOG), 2021.
-
-
