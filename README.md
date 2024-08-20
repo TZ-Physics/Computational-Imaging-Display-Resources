@@ -1,4 +1,4 @@
-# Computational Imaging & Display & Graphics Resources
+# Computational Imaging & Display Resources
 
 ## Computational Imaging
 
