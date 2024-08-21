@@ -65,28 +65,6 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
 [[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
-## Computational Display
-
-### Holography
-
-**Neural holography with camera-in-the-loop training.**<br>
-*Y Peng, S Choi, N Padmanaban, G Wetzstein.*<br>
-ACM Transactions on Graphics (TOG), 2020.
-[[Paper](https://drive.google.com/file/u/0/d/1Y_gUeAAolN35I3cG7T-QRXTvXAlw5Let/view?pli=1)]
-
-**Joint neural phase retrieval and compression for energy-and computation-efficient holography on the edge.**<br>
-*Y Wang, P Chakravarthula, Q Sun, B Chen.*<br>
-ACM Transactions on Graphics, 2022.
-[[Paper](https://par.nsf.gov/servlets/purl/10465404)]
-[[Github](https://github.com/HoloCompress/DPRC)]
-
-**Holographic glasses for virtual reality.**<br>
-*J Kim, M Gopakumar, S Choi, Y Peng, W Lopes, G Wetzstein.*<br>
-ACM SIGGRAPH 2022 Conference Proceedings, 2022.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739)]
-
-### 3D Reconstruction
-
 **KinectFusion: real-time 3D reconstruction and interaction using a moving depth camera.**<br>
 *S Izadi, D Kim, O Hilliges, D Molyneaux, et al.*<br>
 UIST, 2011.
@@ -122,3 +100,23 @@ CVPR, 2021.
 **SP-GAN: Sphere-guided 3D shape generation and manipulation.**<br>
 *R Li, X Li, KH Hui, CW Fu.*<br>
 ACM Transactions on Graphics (TOG), 2021.
+
+## Computational Display
+
+### Holography
+
+**Neural holography with camera-in-the-loop training.**<br>
+*Y Peng, S Choi, N Padmanaban, G Wetzstein.*<br>
+ACM Transactions on Graphics (TOG), 2020.
+[[Paper](https://drive.google.com/file/u/0/d/1Y_gUeAAolN35I3cG7T-QRXTvXAlw5Let/view?pli=1)]
+
+**Joint neural phase retrieval and compression for energy-and computation-efficient holography on the edge.**<br>
+*Y Wang, P Chakravarthula, Q Sun, B Chen.*<br>
+ACM Transactions on Graphics, 2022.
+[[Paper](https://par.nsf.gov/servlets/purl/10465404)]
+[[Github](https://github.com/HoloCompress/DPRC)]
+
+**Holographic glasses for virtual reality.**<br>
+*J Kim, M Gopakumar, S Choi, Y Peng, W Lopes, G Wetzstein.*<br>
+ACM SIGGRAPH 2022 Conference Proceedings, 2022.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739)]
