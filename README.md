@@ -101,6 +101,26 @@ CVPR, 2021.
 *R Li, X Li, KH Hui, CW Fu.*<br>
 ACM Transactions on Graphics (TOG), 2021.
 
+
+#### Point Cloud
+
+**Pushing Point Cloud Compression to the Edge.**<br>
+*Z Ying, S Zhao, S Bhuyan, CS Mishra, et al.*<br>
+MICRO, 2022.
+[[Paper](https://par.nsf.gov/servlets/purl/10440765)]
+
+**Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.**<br>
+*H Tang, S Yang, Z Liu, K Hong, Z Yu, X Li, G Dai, Y Wang, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
+[[Github](https://github.com/mit-han-lab/torchsparse)]
+
+**Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.**<br>
+*H Tang, S Yang, Z Liu, K Hong, Z Yu, X Li, G Dai, Y Wang, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
+[[Github](https://github.com/mit-han-lab/torchsparse)]
+
 ## Computational Display
 
 ### Holography
