@@ -35,9 +35,16 @@ IEEE Transactions on Computational Imaging, 2022.
 **Pixelrnn: in-pixel recurrent neural networks for end-to-end-optimized perception with neural sensors.**<br>
 *HM So, L Bose, P Dudek, G Wetzstein.*<br>
 CVPR, 2024.
-[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf)]
 
 ### TrustedRobustImaging
+
+#### Adverse Condition
+
+**Seeing through fog without seeing fog: Deep multimodal sensor fusion in unseen adverse weather.**<br>
+*M Bijelic, T Gruber, F Mannan, et al.*<br>
+CVPR, 2020.
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf)]
 
 **Fog simulation on real LiDAR point clouds for 3D object detection in adverse weather.**<br>
 *M Hahner, C Sakaridis, D Dai, et al.*<br>
@@ -58,6 +65,11 @@ Nature communications, 2021.
 [[Paper](https://www.nature.com/articles/s41467-021-26443-0)]
 [[Code](https://doi.org/10.5281/zenodo.5637678)]
 
+**Miniature color camera via flat hybrid meta-optics.**<br>
+*S Pinilla, JE Fröch, SR Miri Rostami, V Katkovnik, I Shevkunov, A Majumdar, K Egiazarian.*<br>
+Science Advances, 2023.
+[[Paper](https://www.science.org/doi/full/10.1126/sciadv.adg7297)]
+
 **End-to-end optimization of metasurfaces for imaging with compressed sensing.**<br>
 *G Arya, WF Li, C Roques-Carmes, M Soljacic, SG Johnson, Z Lin.*<br>
 ACS Photonics, 2024.
@@ -65,16 +77,22 @@ ACS Photonics, 2024.
 
 ### Dynamic3DImaging
 
+#### TOF
+
+**All-photon polarimetric time-of-flight imaging.**<br>
+*SH Baek, F Heide.*<br>
+CVPR, 2022.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Baek_All-Photon_Polarimetric_Time-of-Flight_Imaging_CVPR_2022_paper.pdf)]
+
+**Fisher information guidance for learned time-of-flight imaging.**<br>
+*J Li, T Yue, S Zhao, X Hu.*<br>
+CVPR, 2022.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Fisher_Information_Guidance_for_Learned_Time-of-Flight_Imaging_CVPR_2022_paper.pdf)]
+
 **Centimeter-wave free-space neural time-of-flight imaging.**<br>
 *SH Baek, N Walsh, I Chugunov, Z Shi, F Heide.*<br>
 ACM Transactions on Graphics, 2023.
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3522671)]
-
-**Cross-spectral Gated-RGB Stereo Depth Estimation.**<br>
-*S Brucker, S Walz, M Bijelic, et al.*<br>
-CVPR, 2024.
-[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
-[[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
 #### LiDAR
 
@@ -94,6 +112,22 @@ MICRO, 2023.
 MICRO, 2023.
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
 [[Github](https://github.com/mit-han-lab/torchsparse)]
+
+#### Stereo
+
+**Activestereonet: End-to-end self-supervised learning for active stereo systems.**<br>
+*Y Zhang, S Khamis, C Rhemann, et al.*<br>
+ECCV, 2018.
+
+**Polka lines: Learning structured illumination and reconstruction for active stereo.**<br>
+*SH Baek, F Heide.*<br>
+CVPR, 2021.
+
+**Cross-spectral Gated-RGB Stereo Depth Estimation.**<br>
+*S Brucker, S Walz, M Bijelic, et al.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
+[[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
 ## Computational Display
 
