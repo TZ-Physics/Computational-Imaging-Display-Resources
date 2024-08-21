@@ -159,12 +159,28 @@ Proceedings of Machine Learning and Systems, 2023.
 
 #### AR
 
+**Design and manufacture AR head-mounted displays: A review and outlook.**<br>
+*D Cheng, Q Wang, Y Liu, H Chen, D Ni, X Wang, C Yao, Q Hou, W Hou, G Luo, Y Wang.*<br>
+Light: Advanced Manufacturing, 2021.
+
 **High-efficiency and compact two-dimensional exit pupil expansion design for diffractive waveguide based on polarization volume grating.**<br>
 *Y Weng, Y Zhang, W Wang, Y Gu, C Wang, R Wei, L Zhang, B Wang.*<br>
 Optics Express, 2023.
+
+**Extended depth-of-field projector using learned diffractive optics.**<br>
+*Y Li, Q Fu, W Heidrich.*<br>
+2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 2023.
 
 #### VR
 
 **Multimodality in VR: A survey.**<br>
 *D Martin, S Malpica, D Gutierrez, B Masia, et al.*<br>
 ACM Computing Surveys, 2022.
+
+**Optical design and pupil swim analysis of a compact, large EPD and immersive VR head mounted display.**<br>
+*D Cheng, Q Hou, Y Li, T Zhang, D Li, Y Huang, Y Liu, Q Wang, W Hou, T Yang, Z Feng, et al.*<br>
+Optics express, 2022.
+
+**Context-Aware Head-and-Eye Motion Generation with Diffusion Model.**<br>
+*Y Shen, M Xu, W Liang.*<br>
+2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 2024.
