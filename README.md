@@ -148,3 +148,23 @@ ACM Transactions on Graphics, 2022.
 *J Kim, M Gopakumar, S Choi, Y Peng, W Lopes, G Wetzstein.*<br>
 ACM SIGGRAPH 2022 Conference Proceedings, 2022.
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739)]
+
+### XR
+
+#### Benchmark
+
+**Xrbench: An extended reality (xr) machine learning benchmark suite for the metaverse.**<br>
+*H Kwon, K Nair, J Seo, J Yik, D Mohapatra, D Zhan, J Song, P Capak, P Zhang, P Vajda, et al.*<br>
+Proceedings of Machine Learning and Systems, 2023.
+
+#### AR
+
+**High-efficiency and compact two-dimensional exit pupil expansion design for diffractive waveguide based on polarization volume grating.**<br>
+*Y Weng, Y Zhang, W Wang, Y Gu, C Wang, R Wei, L Zhang, B Wang.*<br>
+Optics Express, 2023.
+
+#### VR
+
+**Multimodality in VR: A survey.**<br>
+*D Martin, S Malpica, D Gutierrez, B Masia, et al.*<br>
+ACM Computing Surveys, 2022.
