@@ -14,12 +14,23 @@ Optics express, 2021.
 Optics Express, 2022.
 [[Paper](https://opg.optica.org/viewmedia.cfm?uri=oe-30-8-13556&seq=0&html=true)]
 
+**Inferring the solution space of microscope objective lenses using deep learning.**<br>
+*G Côté, Y Zhang, C Menke, JF Lalonde, S Thibault.*<br>
+Optics Express, 2022.
+[[Paper](https://opg.optica.org/viewmedia.cfm?uri=oe-30-5-6531&seq=0&html=true)]
+
 ### DiffOptics
 
 **Differentiable compound optics and processing pipeline optimization for end-to-end camera design.**<br>
 *E Tseng, A Mosleh, F Mannan, K St-Arnaud, A Sharma, Y Peng, A Braun, D Nowrouzezahrai, et al.*<br>
 ACM Transactions on Graphics (TOG), 2021.
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3446791)]
+
+**do: A differentiable engine for deep lens design of computational imaging systems.**<br>
+*C Wang, N Chen, W Heidrich.*<br>
+IEEE Transactions on Computational Imaging, 2022.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919421)]
+[[Github](https://github.com/vccimaging/diffOptics)]
 
 **Pixelrnn: in-pixel recurrent neural networks for end-to-end-optimized perception with neural sensors.**<br>
 *HM So, L Bose, P Dudek, G Wetzstein.*<br>
