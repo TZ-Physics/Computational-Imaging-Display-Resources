@@ -65,7 +65,7 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
 [[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
-#### Point Cloud
+#### LiDAR
 
 **Pushing Point Cloud Compression to the Edge.**<br>
 *Z Ying, S Zhao, S Bhuyan, CS Mishra, et al.*<br>
