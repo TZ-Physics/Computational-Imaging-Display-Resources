@@ -75,7 +75,7 @@ Science Advances, 2023.
 ACS Photonics, 2024.
 [[Paper](https://arxiv.org/pdf/2201.12348)]
 
-### Dynamic3DImaging
+### DynamicHDImaging
 
 #### TOF
 
