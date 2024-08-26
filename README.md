@@ -157,12 +157,6 @@ ACM SIGGRAPH 2022 Conference Proceedings, 2022.
 
 ### XR
 
-#### Benchmark
-
-**Xrbench: An extended reality (xr) machine learning benchmark suite for the metaverse.**<br>
-*H Kwon, K Nair, J Seo, J Yik, D Mohapatra, D Zhan, J Song, P Capak, P Zhang, P Vajda, et al.*<br>
-Proceedings of Machine Learning and Systems, 2023.
-
 #### AR
 
 **Design and manufacture AR head-mounted displays: A review and outlook.**<br>
@@ -190,3 +184,9 @@ Optics express, 2022.
 **Context-Aware Head-and-Eye Motion Generation with Diffusion Model.**<br>
 *Y Shen, M Xu, W Liang.*<br>
 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 2024.
+
+#### Benchmark
+
+**Xrbench: An extended reality (xr) machine learning benchmark suite for the metaverse.**<br>
+*H Kwon, K Nair, J Seo, J Yik, D Mohapatra, D Zhan, J Song, P Capak, P Zhang, P Vajda, et al.*<br>
+Proceedings of Machine Learning and Systems, 2023.
