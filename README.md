@@ -135,6 +135,50 @@ CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
 [[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
+## Biomedical Optics
+
+### Microscopy
+
+**Content-aware image restoration: pushing the limits of fluorescence microscopy.**<br>
+*M Weigert, U Schmidt, T Boothe, A Müller, A Dibrov, et al.*<br>
+Nature, 2018.
+
+**Deep-STORM: super-resolution single-molecule microscopy by deep learning.**<br>
+*E Nehme, LE Weiss, T Michaeli, Y Shechtman.*<br>
+Optica, 2018.
+
+**An adaptive optics module for deep tissue multiphoton imaging in vivo.**<br>
+*C Rodríguez, A Chen, JA Rivera, MA Mohr, Y Liang, et al.*<br>
+Nature Method, 2021.
+
+### Tomography
+
+**Three-dimensional imaging through scattering media based on confocal diffuse tomography.**<br>
+*DB Lindell, G Wetzstein.*<br>
+Nature communications, 2020.
+
+**X-ray computed tomography.**<br>
+*PJ Withers, C Bouman, S Carmignato, et al.*<br>
+Nature Reviews, 2021.
+
+**High resolution, deep imaging using confocal time-of-flight diffuse optical tomography.**<br>
+*Y Zhao, A Raghuram, H Kim, et al.*<br>
+TPAMI, 2021.
+
+### Therapy
+
+**Photodynamic therapy of cancer: an update.**<br>
+*P Agostinis, K Berg, KA Cengel, et al.*<br>
+CA: A Cancer Journal for Clinicians, 2011.
+
+**Antimicrobial photodynamic therapy–what we know and what we don't.**<br>
+*F Cieplik, D Deng, W Crielaard, et al.*<br>
+Critical Reviews in Microbiology, 2018.
+
+**Rejuvenated photodynamic therapy for bacterial infections.**<br>
+*Q Jia, Q Song, P Li, W Huang.*<br>
+Advanced healthcare materials, 2019.
+
 ## Computational Display
 
 ### Holography
