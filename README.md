@@ -37,12 +37,6 @@ IEEE Transactions on Computational Imaging, 2022.
 CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf)]
 
-### Advanced Senser
-
-**OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing.**<br>
-*M Morsali, S Tabrizchi, D Najafi, M Imani, M Nikdast, A Roohi, S Angizi.*<br>
-2024 Design, Automation & Test in Europe Conference & Exhibition, 2024.
-
 ### TrustedRobustImaging
 
 #### Adverse Condition
