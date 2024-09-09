@@ -47,6 +47,19 @@ CVPR, 2024.
 |2021| Fog | Fog simulation on real LiDAR point clouds for 3D object detection in adverse weather.|[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf) |-|-|-|
 |2022| Snow | Lidar snowfall simulation for robust 3d object detection.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hahner_LiDAR_Snowfall_Simulation_for_Robust_3D_Object_Detection_CVPR_2022_paper.pdf) |-|[[Github]](https://github.com/SysCV/LiDAR_snow_sim)|-|
 
+### DynamicHDImaging
+
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022| TOF | All-photon polarimetric time-of-flight imaging.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Baek_All-Photon_Polarimetric_Time-of-Flight_Imaging_CVPR_2022_paper.pdf) |-|-|-|
+|2022| TOF | Fisher information guidance for learned time-of-flight imaging.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Fisher_Information_Guidance_for_Learned_Time-of-Flight_Imaging_CVPR_2022_paper.pdf) |-|-|-|
+|2023| TOF | Centimeter-wave free-space neural time-of-flight imaging.|[[TOG]](https://dl.acm.org/doi/pdf/10.1145/3522671) |-|-|-|
+|2022| LiDAR | Pushing Point Cloud Compression to the Edge.|[[MICRO]](hhttps://par.nsf.gov/servlets/purl/10440765) |-|-|-|
+|2023| LiDAR | Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.|[[MICRO]](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303) |-|[[Github]](https://github.com/mit-han-lab/torchsparse)|-|
+|2018| Stereo | Activestereonet: End-to-end self-supervised learning for active stereo systems.|[[ECCV]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinda_Zhang_Active_Stereo_Net_ECCV_2018_paper.pdf) |-|-|-|
+|2021| Stereo | Polka lines: Learning structured illumination and reconstruction for active stereo.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf) |-|-|-|
+|2024| Stereo | Cross-spectral Gated-RGB Stereo Depth Estimation..|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf) |-|[[Github]](https://light.princeton.edu/publication/gatedrccbstereo/)|-|
+
 ### MiniAccurateImaging
 
 **Neural nano-optics for high-quality thin lens imaging.**<br>
@@ -64,60 +77,6 @@ Science Advances, 2023.
 *G Arya, WF Li, C Roques-Carmes, M Soljacic, SG Johnson, Z Lin.*<br>
 ACS Photonics, 2024.
 [[Paper](https://arxiv.org/pdf/2201.12348)]
-
-### DynamicHDImaging
-
-#### TOF
-
-**All-photon polarimetric time-of-flight imaging.**<br>
-*SH Baek, F Heide.*<br>
-CVPR, 2022.
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Baek_All-Photon_Polarimetric_Time-of-Flight_Imaging_CVPR_2022_paper.pdf)]
-
-**Fisher information guidance for learned time-of-flight imaging.**<br>
-*J Li, T Yue, S Zhao, X Hu.*<br>
-CVPR, 2022.
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Fisher_Information_Guidance_for_Learned_Time-of-Flight_Imaging_CVPR_2022_paper.pdf)]
-
-**Centimeter-wave free-space neural time-of-flight imaging.**<br>
-*SH Baek, N Walsh, I Chugunov, Z Shi, F Heide.*<br>
-ACM Transactions on Graphics, 2023.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3522671)]
-
-#### LiDAR
-
-**Pushing Point Cloud Compression to the Edge.**<br>
-*Z Ying, S Zhao, S Bhuyan, CS Mishra, et al.*<br>
-MICRO, 2022.
-[[Paper](https://par.nsf.gov/servlets/purl/10440765)]
-
-**Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.**<br>
-*H Tang, S Yang, Z Liu, K Hong, Z Yu, X Li, G Dai, Y Wang, S Han.*<br>
-MICRO, 2023.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
-[[Github](https://github.com/mit-han-lab/torchsparse)]
-
-**Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.**<br>
-*H Tang, S Yang, Z Liu, K Hong, Z Yu, X Li, G Dai, Y Wang, S Han.*<br>
-MICRO, 2023.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
-[[Github](https://github.com/mit-han-lab/torchsparse)]
-
-#### Stereo
-
-**Activestereonet: End-to-end self-supervised learning for active stereo systems.**<br>
-*Y Zhang, S Khamis, C Rhemann, et al.*<br>
-ECCV, 2018.
-
-**Polka lines: Learning structured illumination and reconstruction for active stereo.**<br>
-*SH Baek, F Heide.*<br>
-CVPR, 2021.
-
-**Cross-spectral Gated-RGB Stereo Depth Estimation.**<br>
-*S Brucker, S Walz, M Bijelic, et al.*<br>
-CVPR, 2024.
-[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf)]
-[[Github](https://light.princeton.edu/publication/gatedrccbstereo/)]
 
 ## Biomedical Optics
 
