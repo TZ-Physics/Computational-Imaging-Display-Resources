@@ -62,21 +62,12 @@ CVPR, 2024.
 
 ### MiniAccurateImaging
 
-**Neural nano-optics for high-quality thin lens imaging.**<br>
-*E Tseng, S Colburn, J Whitehead, L Huang, SH Baek, A Majumdar, F Heide.*<br>
-Nature communications, 2021.
-[[Paper](https://www.nature.com/articles/s41467-021-26443-0)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 [[Code](https://doi.org/10.5281/zenodo.5637678)]
-
-**Miniature color camera via flat hybrid meta-optics.**<br>
-*S Pinilla, JE Fröch, SR Miri Rostami, V Katkovnik, I Shevkunov, A Majumdar, K Egiazarian.*<br>
-Science Advances, 2023.
-[[Paper](https://www.science.org/doi/full/10.1126/sciadv.adg7297)]
-
-**End-to-end optimization of metasurfaces for imaging with compressed sensing.**<br>
-*G Arya, WF Li, C Roques-Carmes, M Soljacic, SG Johnson, Z Lin.*<br>
-ACS Photonics, 2024.
-[[Paper](https://arxiv.org/pdf/2201.12348)]
+|2021| Meta-optics | Neural nano-optics for high-quality thin lens imaging.|[[NC]](https://www.nature.com/articles/s41467-021-26443-0) |-|[[Code]]()|-|
+|2023| Meta-optics | Miniature color camera via flat hybrid meta-optics.|[[SA]](https://www.science.org/doi/full/10.1126/sciadv.adg7297) |-|-|-|
+|2024| Meta-optics | End-to-end optimization of metasurfaces for imaging with compressed sensing.|[[ACSP]](https://arxiv.org/pdf/2201.12348) |-|-|-|
 
 ## Biomedical Optics
 
