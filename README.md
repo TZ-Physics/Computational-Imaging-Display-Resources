@@ -72,6 +72,9 @@ CVPR, 2024.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2021| Endoscope | Ultra-thin 3D lensless fiber endoscopy using diffractive optical elements and deep neural networks.|[[LAM]](https://www.light-am.com/article/doi/10.37188/lam.2021.030f) |-|-|-|
+|2022| Endoscope | Quantitative phase imaging through an ultra-thin lensless fiber endoscope.|[[LSA]](https://www.nature.com/articles/s41377-022-00898-2.pdf) |-|-|-|
+|2023| Endoscope | Autonomous intelligent navigation for flexible endoscopy using monocular depth guidance and 3-D shape planning.|[[ICRA]](https://arxiv.org/pdf/2302.13219) |-|-|-|
 |2020| Tomography | Three-dimensional imaging through scattering media based on confocal diffuse tomography.|[[NC]](https://www.nature.com/articles/s41467-020-18346-3.pdf) |-|-|-|
 |2021| Tomography | X-ray computed tomography.|[[NR]](https://www.nature.com/articles/s43586-021-00015-4) |-|-|-|
 |2021| Tomography | High resolution, deep imaging using confocal time-of-flight diffuse optical tomography.|[[TPAMI]](https://ieeexplore.ieee.org/abstract/document/9415130/) |-|-|-|
