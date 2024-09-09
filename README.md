@@ -39,8 +39,6 @@ CVPR, 2024.
 
 ### TrustedRobustImaging
 
-#### Adverse Condition
-
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2020| Fog | Seeing through fog without seeing fog: Deep multimodal sensor fusion in unseen adverse weather.|[[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf) |-|-|-|
