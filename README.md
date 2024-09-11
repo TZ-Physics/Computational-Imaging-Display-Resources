@@ -43,9 +43,10 @@ CVPR, 2024.
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2020| Fog | Seeing through fog without seeing fog: Deep multimodal sensor fusion in unseen adverse weather.|[[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf) |-|-|-|
 |2021| Fog | Fog simulation on real LiDAR point clouds for 3D object detection in adverse weather.|[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf) |-|-|-|
+|2024| Fog | SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SynFog_A_Photo-realistic_Synthetic_Fog_Dataset_based_on_End-to-end_Imaging_CVPR_2024_paper.pdf) |-|-|-|
 |2022| Snow | Lidar snowfall simulation for robust 3d object detection.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hahner_LiDAR_Snowfall_Simulation_for_Robust_3D_Object_Detection_CVPR_2022_paper.pdf) |-|[[Github]](https://github.com/SysCV/LiDAR_snow_sim)|-|
 
-### DynamicHDImaging
+### UltrafastHDImaging
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -54,6 +55,7 @@ CVPR, 2024.
 |2023| TOF | Centimeter-wave free-space neural time-of-flight imaging.|[[TOG]](https://dl.acm.org/doi/pdf/10.1145/3522671) |-|-|-|
 |2022| LiDAR | Pushing Point Cloud Compression to the Edge.|[[MICRO]](https://par.nsf.gov/servlets/purl/10440765) |-|-|-|
 |2023| LiDAR | Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.|[[MICRO]](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303) |-|[[Github]](https://github.com/mit-han-lab/torchsparse)|-|
+|2024| LiDAR | Towards an ultrafast 3D imaging scanning LiDAR system: a review.|[[PRJ]](https://opg.optica.org/viewmedia.cfm?uri=prj-12-8-1709&seq=0&html=true) |-|-|-|
 |2018| Stereo | Activestereonet: End-to-end self-supervised learning for active stereo systems.|[[ECCV]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinda_Zhang_Active_Stereo_Net_ECCV_2018_paper.pdf) |-|-|-|
 |2021| Stereo | Polka lines: Learning structured illumination and reconstruction for active stereo.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf) |-|-|-|
 |2024| Stereo | Cross-spectral Gated-RGB Stereo Depth Estimation..|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf) |-|[[Github]](https://light.princeton.edu/publication/gatedrccbstereo/)|-|
