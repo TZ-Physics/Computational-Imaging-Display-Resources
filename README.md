@@ -84,23 +84,11 @@ CVPR, 2024.
 
 ## Computational Display
 
-### Holography
-
-**Neural holography with camera-in-the-loop training.**<br>
-*Y Peng, S Choi, N Padmanaban, G Wetzstein.*<br>
-ACM Transactions on Graphics (TOG), 2020.
-[[Paper](https://drive.google.com/file/u/0/d/1Y_gUeAAolN35I3cG7T-QRXTvXAlw5Let/view?pli=1)]
-
-**Joint neural phase retrieval and compression for energy-and computation-efficient holography on the edge.**<br>
-*Y Wang, P Chakravarthula, Q Sun, B Chen.*<br>
-ACM Transactions on Graphics, 2022.
-[[Paper](https://par.nsf.gov/servlets/purl/10465404)]
-[[Github](https://github.com/HoloCompress/DPRC)]
-
-**Holographic glasses for virtual reality.**<br>
-*J Kim, M Gopakumar, S Choi, Y Peng, W Lopes, G Wetzstein.*<br>
-ACM SIGGRAPH 2022 Conference Proceedings, 2022.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2020| Holography | Neural holography with camera-in-the-loop training.|[[TOG]](https://drive.google.com/file/u/0/d/1Y_gUeAAolN35I3cG7T-QRXTvXAlw5Let/view?pli=1) |-|-|-|
+|2022| Holography | Joint neural phase retrieval and compression for energy-and computation-efficient holography on the edge.|[[TOG]](https://par.nsf.gov/servlets/purl/10465404) |-|[[Github]](https://github.com/HoloCompress/DPRC)|-|
+|2022| Holography | Holographic glasses for virtual reality.|[[SIGGRAPH]](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739) |-|-|-|
 
 ### XR
 
