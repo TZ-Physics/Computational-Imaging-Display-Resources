@@ -64,9 +64,9 @@ CVPR, 2024.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2021| Meta-optics | Neural nano-optics for high-quality thin lens imaging.|[[NC]](https://www.nature.com/articles/s41467-021-26443-0) |-|[[Code]](https://doi.org/10.5281/zenodo.5637678)|-|
-|2023| Meta-optics | Miniature color camera via flat hybrid meta-optics.|[[SA]](https://www.science.org/doi/full/10.1126/sciadv.adg7297) |-|-|-|
-|2024| Meta-optics | End-to-end optimization of metasurfaces for imaging with compressed sensing.|[[ACSP]](https://arxiv.org/pdf/2201.12348) |-|-|-|
+|2021| Metalens | Neural nano-optics for high-quality thin lens imaging.|[[NC]](https://www.nature.com/articles/s41467-021-26443-0) |-|[[Code]](https://doi.org/10.5281/zenodo.5637678)|-|
+|2023| Metalens | Miniature color camera via flat hybrid meta-optics.|[[SA]](https://www.science.org/doi/full/10.1126/sciadv.adg7297) |-|-|-|
+|2024| Metalens | End-to-end optimization of metasurfaces for imaging with compressed sensing.|[[ACSP]](https://arxiv.org/pdf/2201.12348) |-|-|-|
 
 ## Biomedical Optics
 
