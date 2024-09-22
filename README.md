@@ -88,6 +88,8 @@ CVPR, 2024.
 
 ## Computational Display
 
+### Autostereoscopy
+
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2020| Holography | Neural holography with camera-in-the-loop training.|[[TOG]](https://drive.google.com/file/u/0/d/1Y_gUeAAolN35I3cG7T-QRXTvXAlw5Let/view?pli=1) |-|-|-|
