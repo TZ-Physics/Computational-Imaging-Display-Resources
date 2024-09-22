@@ -48,7 +48,7 @@ CVPR, 2024.
 |2020| Fog |Mulmimodal| Seeing through fog without seeing fog: Deep multimodal sensor fusion in unseen adverse weather.|[[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf) |-|-|-|
 |2021| Fog |LiDAR| Fog simulation on real LiDAR point clouds for 3D object detection in adverse weather.|[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf) |-|-|-|
 |2024| Fog |Camera| SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SynFog_A_Photo-realistic_Synthetic_Fog_Dataset_based_on_End-to-end_Imaging_CVPR_2024_paper.pdf) |-|-|-|
-|2024| HDR |Camera| Neural Exposure Fusion for High-Dynamic Range Object Detection.|[[CVPR]](-https://openaccess.thecvf.com/content/CVPR2024/papers/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.pdf) |-|-|-|
+|2024| HDR |Camera| Neural Exposure Fusion for High-Dynamic Range Object Detection.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.pdf) |-|-|-|
 
 ### UltrafastHDImaging
 
