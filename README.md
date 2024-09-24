@@ -96,7 +96,7 @@ CVPR, 2024.
 |2022| Holography | Joint neural phase retrieval and compression for energy-and computation-efficient holography on the edge.|[[TOG]](https://par.nsf.gov/servlets/purl/10465404) |-|[[Github]](https://github.com/HoloCompress/DPRC)|-|
 |2022| Holography | Holographic glasses for virtual reality.|[[SIGGRAPH]](https://dl.acm.org/doi/pdf/10.1145/3528233.3530739) |-|-|-|
 
-### XR
+### HeadMounted Display
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
