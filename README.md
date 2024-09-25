@@ -106,4 +106,5 @@ CVPR, 2024.
 |2022| VR | Multimodality in VR: A survey.|[[CSUR]](https://arxiv.org/pdf/2101.07906) |-|-|-|
 |2022| VR | Optical design and pupil swim analysis of a compact, large EPD and immersive VR head mounted display.|[[OE]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-5-6584) |-|-|-|
 |2024| VR | Context-Aware Head-and-Eye Motion Generation with Diffusion Model.|[[VR]](https://ieeexplore.ieee.org/abstract/document/10494124) |-|-|-|
+|2024| VR | GPT-VR Nexus: ChatGPT-Powered Immersive Virtual Reality Experience.|[[VR]](https://ieeexplore.ieee.org/abstract/document/10494124) |-|-|-|
 |2024| Benchmark | Xrbench: An extended reality (xr) machine learning benchmark suite for the metaverse.|[[PMLS]](https://proceedings.mlsys.org/paper_files/paper/2023/file/07b7c2f8a6978e376f9656d69619bfbb-Paper-mlsys2023.pdf) |-|-|-|
