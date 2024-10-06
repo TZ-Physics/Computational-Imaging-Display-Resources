@@ -32,6 +32,11 @@ IEEE Transactions on Computational Imaging, 2022.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919421)]
 [[Github](https://github.com/vccimaging/diffOptics)]
 
+**LiDAR-in-the-loop Hyperparameter Optimization.**<br>
+*F Goudreault, D Scheuble, M Bijelic, et al.*<br>
+CVPR, 2023.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf)]
+
 **Pixelrnn: in-pixel recurrent neural networks for end-to-end-optimized perception with neural sensors.**<br>
 *HM So, L Bose, P Dudek, G Wetzstein.*<br>
 CVPR, 2024.
