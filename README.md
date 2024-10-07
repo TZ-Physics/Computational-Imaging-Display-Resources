@@ -51,6 +51,7 @@ TOG, 2024.
 
 |Date|Task|Sensor|Title|Paper|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024| Adverse Weather |Mulmimodal| SAMFusion: Sensor-Adaptive Multimodal Fusion for 3D Object Detection in Adverse Weather.|[[ECCV]](https://light.princeton.edu/wp-content/uploads/2024/09/SAMFusion.pdf) |[[Github]](https://github.com/princeton-computational-imaging/SAMFusion)|-|
 |2024| Adverse Weather |Camera| AllWeather-Net: Unified Image Enhancement for Autonomous Driving Under Adverse Weather and Low-Light Conditions.|[[ArXiv]](https://arxiv.org/pdf/2409.02045) |-|-|
 |2022| Rain |Camera| Rain rendering for evaluating and improving robustness to bad weather.|[[IJCV]](https://link.springer.com/article/10.1007/s11263-020-01366-3) |-|-|
 |2022| Snow |LiDAR| Lidar snowfall simulation for robust 3d object detection.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hahner_LiDAR_Snowfall_Simulation_for_Robust_3D_Object_Detection_CVPR_2022_paper.pdf) |[[Github]](https://github.com/SysCV/LiDAR_snow_sim)|-|
