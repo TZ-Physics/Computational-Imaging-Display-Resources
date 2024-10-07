@@ -42,6 +42,11 @@ CVPR, 2023.
 CVPR, 2024.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf)]
 
+**Split-Aperture 2-in-1 Computational Cameras.**<br>
+*Z Shi, I Chugunov, M Bijelic, G Côté, J Yeom, et al.*<br>
+TOG, 2024.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3658225)]
+
 ### TrustedRobustImaging
 
 |Date|Task|Sensor|Title|Paper|Github|DataSets|
