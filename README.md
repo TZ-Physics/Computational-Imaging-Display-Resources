@@ -37,6 +37,11 @@ IEEE Transactions on Computational Imaging, 2022.
 CVPR, 2023.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf)]
 
+**Curriculum learning for ab initio deep learned refractive optics.**<br>
+*X Yang, Q Fu, W Heidrich.*<br>
+Nature communications, 2024.
+[[Paper](https://www.nature.com/articles/s41467-024-50835-7.pdf)]
+
 **Pixelrnn: in-pixel recurrent neural networks for end-to-end-optimized perception with neural sensors.**<br>
 *HM So, L Bose, P Dudek, G Wetzstein.*<br>
 CVPR, 2024.
