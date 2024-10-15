@@ -65,7 +65,8 @@ TOG, 2024.
 |2024| Fog |Camera| SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SynFog_A_Photo-realistic_Synthetic_Fog_Dataset_based_on_End-to-end_Imaging_CVPR_2024_paper.pdf) |-|-|
 |2024| Low-light |Camera| Unsupervised Illumination Adaptation for Low-Light Vision.|[[TPAMI]](https://ieeexplore.ieee.org/abstract/document/10480646) |-|-|
 |2024| HDR |Camera| Neural Exposure Fusion for High-Dynamic Range Object Detection.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.pdf) |-|-|
-
+|2024| Scattering |Camera| Time domain analysis of photon scattering and Huygens-Fresnel back projection.|[[OE]](https://opg.optica.org/directpdfaccess/c3308b4a-9b45-4317-8acfc1ed10e3563f_488566/oe-30-17-30441.pdf?da=1&id=488566&seq=0&mobile=no) |-|-|
+|2024| NLOS |Deep Non-line-of-sight Imaging from Under-scanning Measurements.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b91cc0a242e6518ee731f74e82b2eebd-Paper-Conference.pdf) |-|-|
 
 ### UltrafastHDImaging
 
