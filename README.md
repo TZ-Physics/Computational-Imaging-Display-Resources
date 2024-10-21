@@ -77,6 +77,7 @@ TOG, 2024.
 |2023| TOF | Centimeter-wave free-space neural time-of-flight imaging.|[[TOG]](https://dl.acm.org/doi/pdf/10.1145/3522671) |-|-|-|
 |2022| LiDAR | Pushing Point Cloud Compression to the Edge.|[[MICRO]](https://par.nsf.gov/servlets/purl/10440765) |-|-|-|
 |2023| LiDAR | Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.|[[MICRO]](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303) |-|[[Github]](https://github.com/mit-han-lab/torchsparse)|-|
+|2024| LiDAR | Evolution of laser technology for automotive LiDAR, an industrial viewpoint.|[[NC]](https://www.nature.com/articles/s41467-024-51975-6.pdf) |-|-|-|
 |2024| LiDAR | Towards an ultrafast 3D imaging scanning LiDAR system: a review.|[[PRJ]](https://opg.optica.org/viewmedia.cfm?uri=prj-12-8-1709&seq=0&html=true) |-|-|-|
 |2018| Stereo | Activestereonet: End-to-end self-supervised learning for active stereo systems.|[[ECCV]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinda_Zhang_Active_Stereo_Net_ECCV_2018_paper.pdf) |-|-|-|
 |2021| Stereo | Polka lines: Learning structured illumination and reconstruction for active stereo.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf) |-|-|-|
