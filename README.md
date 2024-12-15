@@ -81,7 +81,7 @@ TOG, 2024.
 |2024| LiDAR | Towards an ultrafast 3D imaging scanning LiDAR system: a review.|[[PRJ]](https://opg.optica.org/viewmedia.cfm?uri=prj-12-8-1709&seq=0&html=true) |-|-|-|
 |2018| Stereo | Activestereonet: End-to-end self-supervised learning for active stereo systems.|[[ECCV]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinda_Zhang_Active_Stereo_Net_ECCV_2018_paper.pdf) |-|-|-|
 |2021| Stereo | Polka lines: Learning structured illumination and reconstruction for active stereo.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf) |-|-|-|
-|2024| Stereo | Cross-spectral Gated-RGB Stereo Depth Estimation..|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf) |-|[[Github]](https://light.princeton.edu/publication/gatedrccbstereo/)|-|
+|2024| Stereo | Cross-spectral Gated-RGB Stereo Depth Estimation.|[[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf) |-|[[Github]](https://light.princeton.edu/publication/gatedrccbstereo/)|-|
 
 ### MiniAccurateImaging
 
